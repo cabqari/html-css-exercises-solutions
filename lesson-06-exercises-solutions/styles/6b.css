@@ -1,0 +1,12 @@
+.special {
+  font-family: arial;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+.end-time {
+  font-weight: bold;
+  color: red;
+  font-style: italic;
+  margin: 0;
+}

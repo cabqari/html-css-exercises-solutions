@@ -1,0 +1,17 @@
+p {
+  font-family: montserrat;
+  margin: 0;
+  text-align: center;
+}
+.model-3 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.order {
+  font-size: 18px;
+  font-weight: 400;
+  & span{
+    text-decoration: underline;
+  }
+}

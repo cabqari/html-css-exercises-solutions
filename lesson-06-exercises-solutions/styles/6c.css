@@ -1,0 +1,26 @@
+p {
+  font-family: verdana;
+  width: 300px;
+  margin: 0;
+}
+.html-css {
+  font-size: 24px;
+  font-weight: bold;
+  
+}
+.beginner-to-pro {
+color: rgb(108, 117, 125);
+font-weight: bold;
+margin-bottom: 16px;
+}
+button {
+margin-top: 16px;
+background-color: rgb(46, 164, 79);
+color: white;
+border: none;
+padding-left: 16px;
+padding-right: 16px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 5px;
+}

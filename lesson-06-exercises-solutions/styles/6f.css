@@ -1,0 +1,21 @@
+p {
+  font-family: arial;
+  margin: 0;
+  margin-bottom: 5px;
+}
+.total {
+  font-size: 26px;
+}
+.total span {
+  font-size: 14px;
+  color: rgb(108, 117, 125);
+}
+.profit {
+color: rgb(46, 164, 79);
+}
+.last {
+color: rgb(108, 117, 125);
+}
+.last span {
+color: rgb(221, 20, 20);
+}

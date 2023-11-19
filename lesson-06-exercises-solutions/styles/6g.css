@@ -1,0 +1,22 @@
+p {
+  font-family: arial;
+  margin: 0;
+
+}
+.web {
+  font-weight: bold;
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+.web span {
+  color: rgb(108, 117, 125);
+  font-weight: normal;
+}
+.info {
+  font-size: 16px;
+  width: 500px;
+  margin-bottom: 25px;
+}
+p a {
+  color: rgb(12, 137, 239);
+}
