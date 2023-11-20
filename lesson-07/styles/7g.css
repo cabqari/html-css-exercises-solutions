@@ -1,0 +1,32 @@
+img {
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+  vertical-align: middle;
+  border-radius: 100px;
+  border: 1px solid rgb(183, 178, 178);
+}
+input {
+  font-family: arial;
+  color: rgb(108, 117, 125);
+  vertical-align: middle;
+  font-size: 16px;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  padding-right: 140px;
+}
+span {
+  font-family: arial;
+  vertical-align: middle;
+  padding-top:8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: rgb(42, 142, 243);
+  border-radius: 18px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
