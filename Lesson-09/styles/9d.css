@@ -1,0 +1,18 @@
+div {
+  font-family: roboto;
+  display: inline-block;
+  background-color: black;
+  padding: 14px;
+  & .install {
+    font-weight: bold;
+    margin: 0;
+    font-size: 22px;
+    color: rgba(255, 255, 255, 0.826);
+  }
+  & .add {
+    color: rgb(108, 117, 125);
+    font-size: 14px;
+    font-weight: 400;
+    width: 330px;
+  }
+}
