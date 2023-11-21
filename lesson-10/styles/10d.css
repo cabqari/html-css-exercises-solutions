@@ -1,0 +1,51 @@
+.container {
+  font-family: roboto;
+  display: inline-block;
+  margin-right: 10px;
+  width: 200px;
+  height: 320px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
+}
+p {
+  margin: 0;
+}
+img {
+  max-width: 100%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.text {
+  padding: 10px;
+}
+.title {
+  font-weight: bold;
+  font-size: 17px;
+  margin-bottom: 6px;
+}
+.pic img {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+  margin-right: 4px;
+  border-radius: 12.5px;
+}
+.friends {
+  vertical-align: middle;
+  display: inline-block;
+  color: rgb(108, 117, 125);
+  font-size: 14px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  font-weight: 400;
+}
+
+button {
+  background-color: rgb(10, 130, 194);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 15px;
+  margin-top: 10px;
+  border: none;
+}
