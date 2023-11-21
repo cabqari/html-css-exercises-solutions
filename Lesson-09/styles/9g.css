@@ -4,7 +4,7 @@
   margin-right: 10px;
   width: 250px;
   height: 390px;
-  box-shadow: 1px 1px 6px 3px  rgba(0, 0, 0, 0.15);
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.2);
 }
 p {
   margin: 0;
