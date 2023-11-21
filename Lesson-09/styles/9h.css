@@ -1,0 +1,29 @@
+div {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.image {
+  margin-top: 60px;
+}
+.input input {
+  margin-top: 30px;
+  font-size: 16px;
+  width: 550px;
+  padding-left: 34px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-radius: 32px;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.2);
+  border: none;
+}
+.buttons {
+  margin-top: 30px;
+}
+button {
+  background-color: #f8f9fa;
+  color: #3c4043;
+  font-size: 14px;
+  padding: 10px 16px;
+  margin: 0 4px;
+  border: 1px solid #f8f9fa;
+} 
