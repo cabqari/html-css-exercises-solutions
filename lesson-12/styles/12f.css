@@ -1,0 +1,28 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(95, 69, 142);
+  color: white;
+  font-weight: bold;
+  letter-spacing: .8px;
+}
+.inp {
+  width: 500px;
+}
+input {
+  width: 100%;
+  border-radius: 18px;
+  border: none;
+  padding: 6px 20px;
+  font-size: 14px;
+}
+.download {
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  padding: 8px 12px;
+  border-radius: 4px;
+}

@@ -1,0 +1,10 @@
+.parent {
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  border: 1px solid gray;
+  align-items: center;
+}
+.parent div {
+  background-color: lightpink;
+}

@@ -1,0 +1,15 @@
+.parent {
+  display: flex;
+}
+.child1 {
+  width: 50px;
+  background-color: lightpink;
+}
+.child2 {
+  flex: 1;
+  background-color: lightblue;
+}
+.child3 {
+  background-color: lightsalmon;
+  width: 75px;
+}
