@@ -1,0 +1,58 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  gap: 10px;
+  font-family: roboto;
+}
+.container {
+  display: grid;
+  grid-template-rows: 200px 130px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
+}
+p {
+  margin: 0;
+}
+img {
+  max-width: 100%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.text {
+  display: grid;
+  grid-template-rows: 20px 30px 40px;
+  row-gap: 8px;
+  padding: 10px;
+}
+.title {
+  font-weight: bold;
+  font-size: 17px;
+}
+.pic {
+  display: grid;
+  grid-template-columns: 25px 1fr;
+  column-gap: 8px;
+  align-items: center;
+
+}
+.pic img {
+  width: 25px;
+  height: 25px;
+  border-radius: 12.5px;
+}
+.friends {
+  color: rgb(108, 117, 125);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+button {
+  width: 60%;
+  background-color: rgb(43, 129, 220);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+}
