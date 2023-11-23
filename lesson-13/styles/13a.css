@@ -1,0 +1,21 @@
+.parent {
+  display: flex;
+
+}
+.child1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  background-color: lightblue;
+  padding: 10px;
+}
+.child1 div {
+  background-color: black;
+  color: white;
+}
+
+.child2 {
+  width: 200px;
+  background-color: lightpink;
+}
