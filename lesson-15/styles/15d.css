@@ -1,0 +1,37 @@
+body {
+  height: 3000px;
+}
+.fixed {
+  position: fixed;
+  width: 320px;
+  height: 180px;
+  background-color: rgba(0, 0, 0, 0.4);
+  right: 60px;
+  bottom: 60px;
+}
+.absolute,
+.timestamp {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.absolute {
+  padding: 10px 14px;
+  border-radius: 50%;
+  font-size: 16px;
+  font-weight: bold;
+  top: -16px;
+  left: -16px;
+}
+.timestamp {
+  bottom: 16px;
+  right: 16px;
+  font-size: 14px;
+  padding: 4px ;
+  border-radius: 3px;
+}
